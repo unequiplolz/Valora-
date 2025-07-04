@@ -1,56 +1,434 @@
 [
-  { "Name": "Dominus Infernus", "Value": 24000, "IsRare": true, "Demand": "Low" },
-  { "Name": "Sparkle Time Fedora", "Value": 4000, "IsRare": true, "Demand": "Low" },
-  { "Name": "Ice Valkyrie", "Value": 2500, "IsRare": false, "Demand": "Low" },
-  { "Name": "Viscount of the Federation", "Value": 1500, "IsRare": false, "Demand": "Low" },
-  { "Name": "Dominus Messor", "Value": 2700, "IsRare": false, "Demand": "Medium" },
-  { "Name": "Poisoned Horns of the Toxic Wasteland", "Value": 3000, "IsRare": false, "Demand": "Medium" },
-  { "Name": "Rainbow Shaggy", "Value": 3000, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Fiery Horns of the Netherworld", "Value": 5500, "IsRare": false, "Demand": "High" },
-  { "Name": "Transient Harmonica", "Value": 2500, "IsRare": false, "Demand": "Medium" },
-  { "Name": "The Void Star", "Value": 3500, "IsRare": false, "Demand": "High" },
-  { "Name": "Purple Sparkle Time Fedora", "Value": 2750, "IsRare": true, "Demand": "Low" },
-  { "Name": "The Classic ROBLOX Fedora", "Value": 2500, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Disgraced Baron of the Federation", "Value": 3000, "IsRare": true, "Demand": "Low" },
-  { "Name": "Valkyrie Helm", "Value": 3700, "IsRare": false, "Demand": "High" },
-  { "Name": "Bling $$ Necklace", "Value": 4500, "IsRare": true, "Demand": "Low" },
-  { "Name": "Dominus Frigidus", "Value": 13000, "IsRare": true, "Demand": "High" },
-  { "Name": "The Dog Whisperer", "Value": 2000, "IsRare": false, "Demand": "Low" },
-  { "Name": "Orange Sparkle Time Fedora", "Value": 2000, "IsRare": false, "Demand": "Low" },
-  { "Name": "Hallow's Void Star", "Value": 4500, "IsRare": true, "Demand": "Low" },
-  { "Name": "Clockwork's Shades", "Value": 3300, "IsRare": false, "Demand": "Medium" },
-  { "Name": "Silver King of the Night", "Value": 2500, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Clockwork's Headphones", "Value": 3000, "IsRare": false, "Demand": "Medium" },
-  { "Name": "Playful Vampire", "Value": 1200, "IsRare": false, "Demand": "Low" },
-  { "Name": "Red Sparkle Time Fedora", "Value": 14000, "IsRare": true, "Demand": "High" },
-  { "Name": "Green Sparkle Time Fedora", "Value": 8000, "IsRare": true, "Demand": "High" },
-  { "Name": "Frozen Horns of the Frigid Planes", "Value": 7500, "IsRare": true, "Demand": "High" },
-  { "Name": "Dominus Empyreus", "Value": 60000, "IsRare": true, "Demand": "High" },
-  { "Name": "Dominus Rex", "Value": 5000, "IsRare": true, "Demand": "Low" },
-  { "Name": "Eerie Pumpkin Head", "Value": 2450, "IsRare": false, "Demand": "Low" },
-  { "Name": "Super Super Happy Face", "Value": 3000, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Dominus Praefectus", "Value": 4000, "IsRare": false, "Demand": "Medium" },
-  { "Name": "Black Iron Horns", "Value": 1250, "IsRare": false, "Demand": "Low" },
-  { "Name": "Red Domino Crown", "Value": 17000, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Eccentric Shop Teacher", "Value": 8500, "IsRare": true, "Demand": "Low" },
-  { "Name": "Dark Conjurer", "Value": 0, "IsRare": true, "Demand": "Unassigned" },
-  { "Name": "Dominus Vespertilio", "Value": 4500, "IsRare": false, "Demand": "Low" },
-  { "Name": "Red Void Star", "Value": 8950, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Twin Kodachi", "Value": 2000, "IsRare": false, "Demand": "Medium" },
-  { "Name": "Lord of the Federation", "Value": 30000, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Red Glowing Eyes", "Value": 6250, "IsRare": false, "Demand": "High" },
-  { "Name": "): Euro 180", "Value": 5000, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Subarctic Commando", "Value": 3700, "IsRare": false, "Demand": "Medium" },
-  { "Name": "Earl Of The Federation", "Value": 12000, "IsRare": false, "Demand": "Medium" },
-  { "Name": "Duke Of The Federation", "Value": 28500, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Dominus Astra", "Value": 25000, "IsRare": true, "Demand": "Low" },
-  { "Name": "Blackvalk", "Value": 5500, "IsRare": false, "Demand": "High" },
-  { "Name": "From the Vault: Kawaii Cat", "Value": 2500, "IsRare": false, "Demand": "Medium" },
-  { "Name": "Midnight Blue Sparkle Time Fedora", "Value": 12500, "IsRare": false, "Demand": "Medium" },
-  { "Name": "Domino Crown", "Value": 25000, "IsRare": true, "Demand": "Medium" },
-  { "Name": "The Empenguinus", "Value": 3500, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Black Sparkle Time Fedora", "Value": 7000, "IsRare": false, "Demand": "High" },
-  { "Name": "Prankster", "Value": 3500, "IsRare": false, "Demand": "High" },
-  { "Name": "Tixvalk", "Value": 2500, "IsRare": false, "Demand": "Low" },
-  { "Name": "Sky Blue Sparkle Time Fedora", "Value": 10000, "IsRare": true, "Demand": "Medium" }
+  {
+    "Name": "Dominus Infernus",
+    "Value": 24000,
+    "IsRare": true,
+    "Demand": "Low",
+    "ItemUrl": "https://www.pekora.zip/catalog/36141/Dominus-Infernus",
+    "ImageUrl": "https://www.pekora.zip/images/thumbnails/bf8b3905d00b79847d068397e6fa38de62898dda2e99d188a8161698ee088621.png"
+  },
+  {
+    "Name": "Sparkle Time Fedora",
+    "Value": 4000,
+    "IsRare": true,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Sparkle%20Time%20Fedora",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Sparkle%20Time%20Fedora"
+  },
+  {
+    "Name": "Ice Valkyrie",
+    "Value": 2500,
+    "IsRare": false,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Ice%20Valkyrie",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Ice%20Valkyrie"
+  },
+  {
+    "Name": "Viscount of the Federation",
+    "Value": 1500,
+    "IsRare": false,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Viscount%20of%20the%20Federation",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Viscount%20of%20the%20Federation"
+  },
+  {
+    "Name": "Dominus Messor",
+    "Value": 2700,
+    "IsRare": false,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Dominus%20Messor",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Dominus%20Messor"
+  },
+  {
+    "Name": "Poisoned Horns of the Toxic Wasteland",
+    "Value": 3000,
+    "IsRare": false,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Poisoned%20Horns%20of%20the%20Toxic%20Wasteland",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Poisoned%20Horns%20of%20the%20Toxic%20Wasteland"
+  },
+  {
+    "Name": "Rainbow Shaggy",
+    "Value": 3000,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Rainbow%20Shaggy",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Rainbow%20Shaggy"
+  },
+  {
+    "Name": "Fiery Horns of the Netherworld",
+    "Value": 5500,
+    "IsRare": false,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Fiery%20Horns%20of%20the%20Netherworld",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Fiery%20Horns%20of%20the%20Netherworld"
+  },
+  {
+    "Name": "Transient Harmonica",
+    "Value": 2500,
+    "IsRare": false,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Transient%20Harmonica",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Transient%20Harmonica"
+  },
+  {
+    "Name": "The Void Star",
+    "Value": 3500,
+    "IsRare": false,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=The%20Void%20Star",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=The%20Void%20Star"
+  },
+  {
+    "Name": "Purple Sparkle Time Fedora",
+    "Value": 2750,
+    "IsRare": true,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Purple%20Sparkle%20Time%20Fedora",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Purple%20Sparkle%20Time%20Fedora"
+  },
+  {
+    "Name": "The Classic ROBLOX Fedora",
+    "Value": 2500,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=The%20Classic%20ROBLOX%20Fedora",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=The%20Classic%20ROBLOX%20Fedora"
+  },
+  {
+    "Name": "Disgraced Baron of the Federation",
+    "Value": 3000,
+    "IsRare": true,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Disgraced%20Baron%20of%20the%20Federation",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Disgraced%20Baron%20of%20the%20Federation"
+  },
+  {
+    "Name": "Valkyrie Helm",
+    "Value": 3700,
+    "IsRare": false,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Valkyrie%20Helm",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Valkyrie%20Helm"
+  },
+  {
+    "Name": "Bling $$ Necklace",
+    "Value": 4500,
+    "IsRare": true,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Bling%20%24%24%20Necklace",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Bling%20%24%24%20Necklace"
+  },
+  {
+    "Name": "Dominus Frigidus",
+    "Value": 13000,
+    "IsRare": true,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Dominus%20Frigidus",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Dominus%20Frigidus"
+  },
+  {
+    "Name": "The Dog Whisperer",
+    "Value": 2000,
+    "IsRare": false,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=The%20Dog%20Whisperer",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=The%20Dog%20Whisperer"
+  },
+  {
+    "Name": "Orange Sparkle Time Fedora",
+    "Value": 2000,
+    "IsRare": false,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Orange%20Sparkle%20Time%20Fedora",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Orange%20Sparkle%20Time%20Fedora"
+  },
+  {
+    "Name": "Hallow's Void Star",
+    "Value": 4500,
+    "IsRare": true,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Hallow%27s%20Void%20Star",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Hallow%27s%20Void%20Star"
+  },
+  {
+    "Name": "Clockwork's Shades",
+    "Value": 3300,
+    "IsRare": false,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Clockwork%27s%20Shades",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Clockwork%27s%20Shades"
+  },
+  {
+    "Name": "Silver King of the Night",
+    "Value": 2500,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Silver%20King%20of%20the%20Night",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Silver%20King%20of%20the%20Night"
+  },
+  {
+    "Name": "Clockwork's Headphones",
+    "Value": 3000,
+    "IsRare": false,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Clockwork%27s%20Headphones",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Clockwork%27s%20Headphones"
+  },
+  {
+    "Name": "Playful Vampire",
+    "Value": 1200,
+    "IsRare": false,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Playful%20Vampire",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Playful%20Vampire"
+  },
+  {
+    "Name": "Red Sparkle Time Fedora",
+    "Value": 14000,
+    "IsRare": true,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Red%20Sparkle%20Time%20Fedora",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Red%20Sparkle%20Time%20Fedora"
+  },
+  {
+    "Name": "Green Sparkle Time Fedora",
+    "Value": 8000,
+    "IsRare": true,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Green%20Sparkle%20Time%20Fedora",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Green%20Sparkle%20Time%20Fedora"
+  },
+  {
+    "Name": "Frozen Horns of the Frigid Planes",
+    "Value": 7500,
+    "IsRare": true,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Frozen%20Horns%20of%20the%20Frigid%20Planes",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Frozen%20Horns%20of%20the%20Frigid%20Planes"
+  },
+  {
+    "Name": "Dominus Empyreus",
+    "Value": 60000,
+    "IsRare": true,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Dominus%20Empyreus",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Dominus%20Empyreus"
+  },
+  {
+    "Name": "Dominus Rex",
+    "Value": 5000,
+    "IsRare": true,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Dominus%20Rex",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Dominus%20Rex"
+  },
+  {
+    "Name": "Eerie Pumpkin Head",
+    "Value": 2450,
+    "IsRare": false,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Eerie%20Pumpkin%20Head",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Eerie%20Pumpkin%20Head"
+  },
+  {
+    "Name": "Super Super Happy Face",
+    "Value": 3000,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Super%20Super%20Happy%20Face",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Super%20Super%20Happy%20Face"
+  },
+  {
+    "Name": "Dominus Praefectus",
+    "Value": 4000,
+    "IsRare": false,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Dominus%20Praefectus",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Dominus%20Praefectus"
+  },
+  {
+    "Name": "Black Iron Horns",
+    "Value": 1250,
+    "IsRare": false,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Black%20Iron%20Horns",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Black%20Iron%20Horns"
+  },
+  {
+    "Name": "Red Domino Crown",
+    "Value": 17000,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Red%20Domino%20Crown",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Red%20Domino%20Crown"
+  },
+  {
+    "Name": "Eccentric Shop Teacher",
+    "Value": 8500,
+    "IsRare": true,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Eccentric%20Shop%20Teacher",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Eccentric%20Shop%20Teacher"
+  },
+  {
+    "Name": "Dark Conjurer",
+    "Value": 0,
+    "IsRare": true,
+    "Demand": "Unassigned",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Dark%20Conjurer",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Dark%20Conjurer"
+  },
+  {
+    "Name": "Dominus Vespertilio",
+    "Value": 4500,
+    "IsRare": false,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Dominus%20Vespertilio",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Dominus%20Vespertilio"
+  },
+  {
+    "Name": "Red Void Star",
+    "Value": 8950,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Red%20Void%20Star",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Red%20Void%20Star"
+  },
+  {
+    "Name": "Twin Kodachi",
+    "Value": 2000,
+    "IsRare": false,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Twin%20Kodachi",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Twin%20Kodachi"
+  },
+  {
+    "Name": "Lord of the Federation",
+    "Value": 30000,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Lord%20of%20the%20Federation",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Lord%20of%20the%20Federation"
+  },
+  {
+    "Name": "Red Glowing Eyes",
+    "Value": 6250,
+    "IsRare": false,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Red%20Glowing%20Eyes",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Red%20Glowing%20Eyes"
+  },
+  {
+    "Name": "): Euro 180",
+    "Value": 5000,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=%29%3A%20Euro%20180",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=%29%3A%20Euro%20180"
+  },
+  {
+    "Name": "Subarctic Commando",
+    "Value": 3700,
+    "IsRare": false,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Subarctic%20Commando",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Subarctic%20Commando"
+  },
+  {
+    "Name": "Earl Of The Federation",
+    "Value": 12000,
+    "IsRare": false,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Earl%20Of%20The%20Federation",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Earl%20Of%20The%20Federation"
+  },
+  {
+    "Name": "Duke Of The Federation",
+    "Value": 28500,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Duke%20Of%20The%20Federation",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Duke%20Of%20The%20Federation"
+  },
+  {
+    "Name": "Dominus Astra",
+    "Value": 25000,
+    "IsRare": true,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Dominus%20Astra",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Dominus%20Astra"
+  },
+  {
+    "Name": "Blackvalk",
+    "Value": 5500,
+    "IsRare": false,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Blackvalk",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Blackvalk"
+  },
+  {
+    "Name": "From the Vault: Kawaii Cat",
+    "Value": 2500,
+    "IsRare": false,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=From%20the%20Vault%3A%20Kawaii%20Cat",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=From%20the%20Vault%3A%20Kawaii%20Cat"
+  },
+  {
+    "Name": "Midnight Blue Sparkle Time Fedora",
+    "Value": 12500,
+    "IsRare": false,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Midnight%20Blue%20Sparkle%20Time%20Fedora",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Midnight%20Blue%20Sparkle%20Time%20Fedora"
+  },
+  {
+    "Name": "Domino Crown",
+    "Value": 25000,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Domino%20Crown",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Domino%20Crown"
+  },
+  {
+    "Name": "The Empenguinus",
+    "Value": 3500,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=The%20Empenguinus",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=The%20Empenguinus"
+  },
+  {
+    "Name": "Black Sparkle Time Fedora",
+    "Value": 7000,
+    "IsRare": false,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Black%20Sparkle%20Time%20Fedora",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Black%20Sparkle%20Time%20Fedora"
+  },
+  {
+    "Name": "Prankster",
+    "Value": 3500,
+    "IsRare": false,
+    "Demand": "High",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Prankster",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Prankster"
+  },
+  {
+    "Name": "Tixvalk",
+    "Value": 2500,
+    "IsRare": false,
+    "Demand": "Low",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Tixvalk",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Tixvalk"
+  },
+  {
+    "Name": "Sky Blue Sparkle Time Fedora",
+    "Value": 10000,
+    "IsRare": true,
+    "Demand": "Medium",
+    "ItemUrl": "https://www.roblox.com/catalog/?Keyword=Sky%20Blue%20Sparkle%20Time%20Fedora",
+    "ImageUrl": "https://www.roblox.com/Thumbs/Asset.ashx?x=420&y=420&assetName=Sky%20Blue%20Sparkle%20Time%20Fedora"
+  }
 ]
